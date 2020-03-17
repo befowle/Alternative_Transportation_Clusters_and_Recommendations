@@ -1,0 +1,4 @@
+#config for mod4_project
+host = 'database-1.c16js05bhtsl.us-east-2.rds.amazonaws.com'
+user = 'befowle'
+pw = '6401cpdm'
